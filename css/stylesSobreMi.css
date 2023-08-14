@@ -1,0 +1,32 @@
+h1{
+    background-color:rgb(54, 46, 71);
+    color: #f5debabb;
+    letter-spacing: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    
+}
+
+footer{
+    background-color: #c4b9a7;
+    color: (54, 46, 71);
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.logos{
+    text-align: center;
+    color: #f5debabb;
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+}
+body{
+    background-image: url(../img/fondo2.jpg);
+    background-size: cover;
+    color:rgb(54, 46, 71);
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
